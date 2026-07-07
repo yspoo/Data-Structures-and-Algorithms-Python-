@@ -21,3 +21,16 @@ def locate_card(cards, query):
         position += 1
     # If we have reached the end of the list, return -1 to indicate that the query was not found.
     return -1
+
+### Test cases ###
+cards = [8, 8, 6, 6, 6, 6, 6, 6, 3, 2, 2, 2, 0, 0, 0]
+query = 6
+print(locate_card(cards, query))  # Output: 2
+
+cards = [9, 7, 5, 2, -9]
+query = 4
+print(locate_card(cards, query))  # Output: -1
+
+cards = [3, -1, -9, -127]
+query = -127
+print(locate_card(cards, query))  # Output: 3
