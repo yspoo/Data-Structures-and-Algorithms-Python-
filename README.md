@@ -1,1 +1,1 @@
-This repository contains Python code that i have learnt on Data Structures & Algorithms.
+This repository contains Python code that I have learnt on Data Structures & Algorithms.
