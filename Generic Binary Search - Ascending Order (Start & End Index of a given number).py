@@ -103,6 +103,7 @@ def first_and_last_position(nums, target):
     # Returns a list containing the indices of the first and last occurrences of the target.
     return [first, last]
 
+### Test Cases ###
 nums, target = [5,7,7,8,8,10], 8
 print(first_and_last_position(nums, target))  # Output: [3, 4]
 
