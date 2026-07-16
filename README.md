@@ -30,11 +30,11 @@ Resource: https://jovian.com/learn/data-structures-and-algorithms-in-python?acti
 
 ## Question
 > You are given list of numbers, obtained by rotating a sorted list an unknown number of times.
-<br> Write a function to determine the minimum number of times the original sorted list was rotated to obtain the given list.
-<br> Your function should have the worst-case complexity of O(log N), where N is the length of the list.
-<br> You can assume that all the numbers in the list are unique.
-<br> We define "rotating a list" as removing the last element of the list and adding it before the first element. E.g. rotating the list [3, 2, 4, 1] produces [1, 3, 2, 4].
-<br> "Sorted list" refers to a list where the elements are arranged in the increasing order e.g. [1, 3, 5, 7].
+<br><br> Write a function to determine the minimum number of times the original sorted list was rotated to obtain the given list.
+<br><br> Your function should have the worst-case complexity of O(log N), where N is the length of the list.
+<br><br> You can assume that all the numbers in the list are unique.
+<br><br> We define "rotating a list" as removing the last element of the list and adding it before the first element. E.g. rotating the list [3, 2, 4, 1] produces [1, 3, 2, 4].
+<br><br> "Sorted list" refers to a list where the elements are arranged in the increasing order e.g. [1, 3, 5, 7].
 
 #### Example: The list [5, 6, 9, 0, 2, 3, 4] was obtained by rotating the sorted list [0, 2, 3, 4, 5, 6, 9] 3 times.
 
