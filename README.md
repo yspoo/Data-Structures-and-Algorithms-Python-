@@ -28,7 +28,7 @@ Resource: https://jovian.com/learn/data-structures-and-algorithms-in-python?acti
 
 <br>
 
-## Question - Assignment 1
+## Question - Assignment 1 - Number of times an increasing order sorted array is rotated to the right
 > You are given list of numbers, obtained by rotating a sorted list an unknown number of times.
 <br><br> Write a function to determine the minimum number of times the original sorted list was rotated to obtain the given list.
 <br><br> Your function should have the worst-case complexity of O(log N), where N is the length of the list.
