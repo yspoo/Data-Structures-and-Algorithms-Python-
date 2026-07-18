@@ -50,3 +50,10 @@ Resource: https://jovian.com/learn/data-structures-and-algorithms-in-python?acti
 #### Example: The list [5, 6, 6, 9, 9, 9, 0, 0, 2, 3, 3, 3, 3, 4, 4] was obtained by rotating the sorted list [0, 0, 2, 3, 3, 3, 3, 4, 4, 5, 6, 6, 9, 9, 9] 6 times. (Notice the list has repeated numbers.)
 
 <br>
+
+## Question - Assignment 1c (Searching in a Rotated List)
+> You are given list of numbers, obtained by rotating a sorted list an unknown number of times. You are also given a target number. Write a function to find the position of the target number within the rotated list. __You can assume that all the numbers in the list are unique.__
+
+#### Example: In the rotated sorted list [5, 6, 9, 0, 2, 3, 4], the target number 2 occurs at position 5.
+
+<br>
